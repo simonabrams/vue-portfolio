@@ -1,0 +1,233 @@
+{
+    "banners": [
+        {
+            "name": "Trident Vibes - Tropical",
+            "description" : "Trident banners promoting new flavors, GSAP Platform",
+            "url": "work/banners/trident-vibes-tropical-300x600",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 600
+        },{
+            "name": "New Museum",
+            "description" : "Banners for a new interactive exhibit at New York's New Museum",
+            "url": "work/banners/new-museum-300x250",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 250
+        },{
+            "name": "Pier1",
+            "description" : "Pier1 campaign ads, featuring panning background. GSAP Platform",
+            "url": "work/banners/pier1-dfw-300x600",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 600
+        },{
+            "name": "Chase Macaskill",
+            "description" : "Chase Ink Business Banking, Adobe Animate CC + GSAP",
+            "url": "work/banners/chase-macaskill-300x600",
+            "thumbnailUrl": "thumbnail.jpg",
+            "width": 300,
+            "height": 600
+        },{
+            "name": "Philadelphia Cream Cheese - Dips",
+            "description" : "New Philly Cream Cheese Dips flavors, GSAP Platform",
+            "url": "work/banners/philly-dips-300x250",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 250
+        },{
+            "name": "Ocean Spray Pink Cranberries",
+            "description" : "New campaign banners for Ocean Spray, Adobe Animate CC, GSAP Platform",
+            "url": "work/banners/ocean-spray-pink-300x250",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 250
+        },{
+            "name": "Chase Pay: All in One",
+            "description" : "Chase Pay HTML5 banner, Adobe Animate CC + GSAP platform",
+            "url": "work/banners/chase-allInOne-300x600",
+            "thumbnailUrl": "thumbnail.jpg",
+            "width": 300,
+            "height": 600
+        },
+        {
+            "name": "Blizzard: Overwatch/20 Million",
+            "description" : "Overwatch banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/blizzard-20million-300x250",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 250
+        },
+        {
+            "name": "Blizzard: Overwatch/Be the Hero",
+            "description" : "Overwatch banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/blizzard-be-the-hero-300x250",
+            "thumbnailUrl": "images/backup.jpg",
+            "width": 300,
+            "height": 250
+        },
+        {
+            "name": "Blizzard: Overwatch/Pass the Lines",
+            "description" : "Overwatch banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/blizzard-pass-the-lines-300x250",
+            "thumbnailUrl": "images/backup.jpg",
+            "width": 300,
+            "height": 250
+        },
+        {
+            "name": "Chase: Agnostic",
+            "description" : "Chase banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/chase-agnostic-300x600",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 600
+        },
+        {
+            "name": "Chase: Filthy Rich",
+            "description" : "Chase Ink banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/chase-ink-filthyRich-300x600",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 600
+        },
+        {
+            "name": "Chase: Squeezed",
+            "description" : "Chase Ink banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/chase-ink-squeezed-300x250",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 250
+        },
+        {
+            "name": "Chase: Pool",
+            "description" : "Chase Sapphire Reserve banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/chase-points-pool-300x600",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 600
+        },
+        {
+            "name": "Chase: US Open",
+            "description" : "Chase US Open ESPN banner. Adobe Animate CC",
+            "url": "work/banners/chase-usopen-espn-300x250",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 250
+        },
+        {
+            "name": "Google Now: Barre or Bar",
+            "description" : "Google Android banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/google-now-barre-300x600",
+            "thumbnailUrl": "now_barre_300x600_banner/thumbnail.jpg",
+            "width": 300,
+            "height": 600
+        },
+        {
+            "name": "Google Photos: Barista Artista",
+            "description" : "Google Photos banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/google-photos_baristaArtista_300x600",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 600
+        },
+        {
+            "name": "Google Play: Freakin' Weekend",
+            "description" : "Google Play banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/google-play_freakinWeekend_300x600",
+            "thumbnailUrl": "images/backup.jpg",
+            "width": 300,
+            "height": 600
+        },
+        {
+            "name": "Honeymaid: Recipe",
+            "description" : "Honeymaid Recipe banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/honeymaid-recipe-300x250",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 250
+        },
+        {
+            "name": "Google: Pixel Announce",
+            "description" : "Launch banners for Google Pixel phone. HTML5 animation, GSAP platform",
+            "url": "work/banners/nexus-announce-us-300x250",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 250
+        },
+        {
+            "name": "Prudential: Refinery-29",
+            "description" : "Prudential Refinery-29 banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/prudential-refinery29-300x250",
+            "thumbnailUrl": "images/backup.gif",
+            "width": 300,
+            "height": 250
+        },
+        {
+            "name": "Prudential: Refinery-29",
+            "description" : "Prudential Refinery-29 banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/prudential-refinery29-pizza-300x600",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 600
+        },
+        {
+            "name": "Toyota: Scion GenOne",
+            "description" : "Scion GenOne banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/scion-genOne-300x250",
+            "thumbnailUrl": "backup.jpg",
+            "width": 300,
+            "height": 250
+        },
+        {
+            "name": "T-Mobile Tuesdays: Frosty",
+            "description" : "T-Mobile Tuesdays banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/t-mobile-frosty-300x250",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 250
+        },
+        {
+            "name": "T-Mobile Tuesdays: Pizza",
+            "description" : "T-Mobile Tuesdays banner. HTML5 animation, GSAP platform",
+            "url": "work/banners/t-mobile-pizza-300x250",
+            "thumbnailUrl": "images/thumbnail.jpg",
+            "width": 300,
+            "height": 250
+        }
+
+    ],
+
+    "featured": [
+        {
+            "name": "Aurum Therapy",
+            "description": "Branding, logo design, art direction and site design",
+            "url": "",
+            "thumbnailUrl":"",
+            "livelUrl":"http://aurumtherapy.com"
+
+        },
+        {
+            "name": "Frisch Ideas",
+            "description": "Full site redesign and refresh, using React",
+            "url": "",
+            "thumbnailUrl":"",
+            "livelUrl":"http://frischideas.com"
+
+        },
+        {
+            "name": "Braindrops",
+            "description": "Experiential project involving 3d stereoscopic photography, print design and automation",
+            "url": "",
+            "thumbnailUrl":"",
+            "livelUrl":""
+
+        },
+        {
+            "name": "ADC Young Guns 2014",
+            "description": "Director of photography creating collateral for the 2014 ADC Young Guns Awards",
+            "url": "",
+            "thumbnailUrl":"",
+            "livelUrl":""
+        }
+    ]
+}
